@@ -1,0 +1,25 @@
+{
+  "name": "bootcamp-project",
+  "version": "1.0.0",
+  "description": "Proyecto realizado durante el bootcamp de React+Node Js impartido por LaserAnts 2021.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juancarranza/bootcamp-project.git"
+  },
+  "keywords": [],
+  "author": "Juan Carranza <juan.carranza1804@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juancarranza/bootcamp-project/issues"
+  },
+  "homepage": "https://github.com/juancarranza/bootcamp-project#readme",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "bootstrap-icons": "^1.7.1",
+    "redux": "^4.1.2"
+  }
+}
